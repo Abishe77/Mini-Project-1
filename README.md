@@ -67,7 +67,7 @@ A 2D scatter plot is generated using Matplotlib to:
 ## How to Run
 
 1. Clone the repository:
-   git clone [https://github.com/yourusername/social-service-recommendation.git](https://github.com/yourusername/social-service-recommendation.git)
+   git clone https://github.com/Abishe77/Mini-Project-1
 
 2. Install required dependencies:
    pip install pandas numpy scikit-learn matplotlib
