@@ -1,5 +1,4 @@
 # Mini-Project 1
-That’s a good instinct. A clean, human, professional README always feels stronger than something overly decorated. Here’s a natural, portfolio-ready version you can use:
 
 ---
 
